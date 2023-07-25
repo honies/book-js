@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": "1954",
+    "genre": "Fantasy",
+    "rating": "9.3"
+  },
+  {
+    "id": "2",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": "1960",
+    "genre": "Fiction",
+    "rating": "8.3"
+  },
+  {
+    "id": "3",
+    "title": "1984",
+    "author": "George Orwell",
+    "year": "1949",
+    "genre": "Science Fiction",
+    "rating": "8.7"
+  },
+  {
+    "id": "4",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": "1813",
+    "genre": "Romance",
+    "rating": "8.2"
+  },
+  {
+    "id": "5",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": "1951",
+    "genre": "Fiction",
+    "rating": "8.1"
+  },
+  {
+    "id": "6",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": "1925",
+    "genre": "Fiction",
+    "rating": "8.5"
+  },
+  {
+    "id": "7",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": "1937",
+    "genre": "Fantasy",
+    "rating": "8.2"
+  },
+  {
+    "id": "8",
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "year": "1851",
+    "genre": "Adventure",
+    "rating": "8.0"
+  },
+  {
+    "id": "9",
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "year": "1884",
+    "genre": "Adventure",
+    "rating": "8.3"
+  },
+  {
+    "id": "10",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year": "1890",
+    "genre": "Gothic fiction",
+    "rating": "8.1"
+  }
+]
